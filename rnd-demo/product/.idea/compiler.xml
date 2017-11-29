@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="composite_main" target="1.8" />
+      <module name="composite_test" target="1.8" />
+      <module name="discovery-service_main" target="1.8" />
+      <module name="discovery-service_test" target="1.8" />
+      <module name="edge-service_main" target="1.8" />
+      <module name="edge-service_test" target="1.8" />
+      <module name="product_main" target="1.8" />
+      <module name="product_test" target="1.8" />
+      <module name="recommendation_main" target="1.8" />
+      <module name="recommendation_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
